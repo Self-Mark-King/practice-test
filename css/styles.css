@@ -1,0 +1,7 @@
+.jumbotron{
+    background-color: aquamarine;
+}
+.col-md-5{
+    width: 500px;
+    center-block();
+}
